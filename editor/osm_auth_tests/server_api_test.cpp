@@ -16,7 +16,7 @@ using osm::ServerApi06;
 using osm::OsmOAuth;
 using namespace pugi;
 
-constexpr char const * kValidOsmUser = "MapsMeTestUser";
+constexpr char const * kValidOsmUser = "OrganicMapsTestUser";
 constexpr char const * kInvalidOsmUser = "qwesdxzcgretwr";
 constexpr char const * kValidOsmPassword = "12345678";
 
